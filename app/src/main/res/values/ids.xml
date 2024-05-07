@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="feedProgressBar" type="id" />
+    <item name="playProgressBar" type="id" />
+    <item name="cleanProgressBar" type="id" />
+    <item name="feedButton" type="id" />
+    <item name="cleanButton" type="id" />
+    <item name="playButton" type="id" />
+</resources>

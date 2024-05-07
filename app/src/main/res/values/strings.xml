@@ -1,0 +1,17 @@
+<!-- strings.xml -->
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Tamagotchi</string>
+
+    <!-- Feed Message -->
+    <string name="feed_message">Thank you, I have eaten enough!</string>
+
+    <!-- Play Message -->
+    <string name="play_message">Please play with me!</string>
+
+    <!-- Clean Message -->
+    <string name="clean_message">All this playing made me dirty. Please wash me?</string>
+
+    <!-- Cleaned Message -->
+    <string name="cleaned_message">Nice and clean, I am going to take a nap now. See you later!</string>
+</resources>
