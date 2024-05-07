@@ -84,3 +84,12 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+
+
+
+
+
+
+https://youtube.com/shorts/p4Ccn74egkg?si=0IBtDkua49htR1BJ
+https://youtube.com/shorts/p4Ccn74egkg?si=0IBtDkua49htR1BJ
